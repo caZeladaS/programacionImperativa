@@ -50,7 +50,7 @@ let miComputadora = {
     modelo: 2017, 
     estaEncendida: true
 };
- 
+
 console.log(miComputadora);
 
 //Array
@@ -65,6 +65,3 @@ const prompt = require("prompt-sync")({sigint: true });
 
 let nombre = prompt("ingrese su nombre: ");
 console. log ("hola", nombre, "!!!");
-
-
-

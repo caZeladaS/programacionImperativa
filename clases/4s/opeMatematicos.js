@@ -68,7 +68,7 @@ console.log( false && true ); // false
 
 console.log( true && true ); // true
 
-// OR 
+// (OR) || 
 
 console.log( false || false);
 
